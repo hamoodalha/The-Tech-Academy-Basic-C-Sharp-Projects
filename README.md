@@ -22,8 +22,6 @@ The Car Insurance project is an ASP.NET MVC web application that simulates a rea
 - C# Programming
 - ASP.NET MVC Development
 - Entity Framework
-- Code First Development
-- Database Management
 - Debugging and Troubleshooting
-- Git & GitHub
+- GitHub
 - Web Application Development
